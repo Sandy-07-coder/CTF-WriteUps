@@ -12,22 +12,7 @@ In this challenge, the cookie stored by the browser hides something important �
 If you want to learn more about cookies, check this resource:  
 🔗 <https://www.geeksforgeeks.org/computer-networks/cookies-network-security/>
 
----
 
-# 🖼️ Images Used
-
-> (Replace filenames with your screenshots)
-
-- 
-- `login.png`
-- `cookie-message.png`
-- `devtools-open.png`
-- `application-tab.png`
-- `cookies-list.png`
-- `cookie-value.png`
-- `url-decoded-click.png`
-- `base64-decode.png`
-- `flag-submit.png`
 
 ---
 
